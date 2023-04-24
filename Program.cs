@@ -11,7 +11,7 @@ namespace MyConsoleQew
         // author is nastya
         static void MySuperfunction()
         {
-            Console.WriteLine("What an awesome print");
+            Console.WriteLine("Hello, C#!!");
         }
         static void Main(string[] args)
         {
