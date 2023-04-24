@@ -8,6 +8,7 @@ namespace MyConsoleQew
 {
     class Program
     {
+        // author is nastya
         static void MySuperfunction()
         {
             Console.WriteLine("What an awesome print");
