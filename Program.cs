@@ -10,7 +10,7 @@ namespace MyConsoleQew
     {
         static void MySuperfunction()
         {
-            Console.WriteLine("What an awesome print");
+            Console.WriteLine("Hello, C#!!");
         }
         static void Main(string[] args)
         {
